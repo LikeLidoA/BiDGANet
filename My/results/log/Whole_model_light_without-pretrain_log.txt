@@ -1,0 +1,18 @@
+2023-05-07 16:16:19,635 semantic_segmentation INFO: Using 1 GPUs
+2023-05-07 16:16:19,636 semantic_segmentation INFO: torch.cuda.is_available(): True
+2023-05-07 16:16:19,636 semantic_segmentation INFO: torch.cuda.device_count(): 1
+2023-05-07 16:16:19,636 semantic_segmentation INFO: torch.cuda.current_device(): 0
+2023-05-07 16:16:19,636 semantic_segmentation INFO: {'model': {'name': 'Whole_model_light', 'backbone': 'without-pretrain', 'base_size': 1024, 'crop_size': 512}, 'optimizer': {'init_lr': 0.01, 'momentum': 0.9, 'weight_decay': 0.0001}, 'train': {'specific_gpu_num': '0', 'train_batch_size': 16, 'valid_batch_size': 1, 'cityscapes_root': './datasets/cityscape/leftImg8bit_trainvaltest/', 'epochs': 1000, 'log_iter': 10, 'val_epoch': 1, 'log_save_dir': './results/log', 'ckpt_dir': './results/ckpt/'}, 'test': {'ckpt_path': 'D:\\code\\My\\results\\ckpt\\Whole_model_light_without-pretrain_997_0.710_best_model.pth'}}
+2023-05-07 16:16:20,886 semantic_segmentation INFO: Start training, Total Epochs: 1000 = Total Iterations 186100
+2023-05-07 16:16:37,246 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 10/186100 || Lr: 0.001259 || Loss: 2.7170 || mIoU: 0.0266 || Cost Time: 0:00:16 || Estimated Time: 3 days, 12:33:55
+2023-05-07 16:16:44,015 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 20/186100 || Lr: 0.001585 || Loss: 2.2068 || mIoU: 0.0552 || Cost Time: 0:00:23 || Estimated Time: 2 days, 11:46:33
+2023-05-07 16:16:50,833 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 30/186100 || Lr: 0.001995 || Loss: 2.3379 || mIoU: 0.0718 || Cost Time: 0:00:29 || Estimated Time: 2 days, 3:35:38
+2023-05-07 16:16:57,907 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 40/186100 || Lr: 0.002512 || Loss: 2.1261 || mIoU: 0.0787 || Cost Time: 0:00:37 || Estimated Time: 1 day, 23:50:05
+2023-05-07 16:17:05,037 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 50/186100 || Lr: 0.003162 || Loss: 2.1414 || mIoU: 0.0827 || Cost Time: 0:00:44 || Estimated Time: 1 day, 21:38:06
+2023-05-07 16:17:12,760 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 60/186100 || Lr: 0.003981 || Loss: 1.6967 || mIoU: 0.0868 || Cost Time: 0:00:51 || Estimated Time: 1 day, 20:40:43
+2023-05-07 16:17:19,820 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 70/186100 || Lr: 0.005012 || Loss: 1.4217 || mIoU: 0.0926 || Cost Time: 0:00:58 || Estimated Time: 1 day, 19:30:22
+2023-05-07 16:17:26,826 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 80/186100 || Lr: 0.006310 || Loss: 1.6847 || mIoU: 0.0956 || Cost Time: 0:01:05 || Estimated Time: 1 day, 18:35:26
+2023-05-07 16:17:33,927 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 90/186100 || Lr: 0.007943 || Loss: 1.5175 || mIoU: 0.0985 || Cost Time: 0:01:13 || Estimated Time: 1 day, 17:56:00
+2023-05-07 16:17:40,812 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 100/186100 || Lr: 0.010000 || Loss: 1.8465 || mIoU: 0.1004 || Cost Time: 0:01:19 || Estimated Time: 1 day, 17:17:41
+2023-05-07 16:17:48,120 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 110/186100 || Lr: 0.010000 || Loss: 1.4485 || mIoU: 0.1037 || Cost Time: 0:01:27 || Estimated Time: 1 day, 16:58:16
+2023-05-07 16:17:55,046 semantic_segmentation INFO: Epochs: 1/1000 || Iters: 120/186100 || Lr: 0.009999 || Loss: 1.3762 || mIoU: 0.1053 || Cost Time: 0:01:34 || Estimated Time: 1 day, 16:32:12
