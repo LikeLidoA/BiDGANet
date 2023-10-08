@@ -9,5 +9,5 @@
 waiting for upload...
 
 2023.9.21
-  paper has been accepted
+  paper has been accepted/
   update a new version of paper
