@@ -1,4 +1,4 @@
-# Mymodule
+# BiDGANet--My
 2023.6.26 
   the paper has been delivered
   The project is disposing. 
