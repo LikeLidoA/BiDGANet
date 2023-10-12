@@ -1,6 +1,0 @@
-2023-06-07 21:19:22,520 semantic_segmentation INFO: Using 1 GPUs
-2023-06-07 21:19:22,521 semantic_segmentation INFO: torch.cuda.is_available(): True
-2023-06-07 21:19:22,521 semantic_segmentation INFO: torch.cuda.device_count(): 1
-2023-06-07 21:19:22,521 semantic_segmentation INFO: torch.cuda.current_device(): 0
-2023-06-07 21:19:22,521 semantic_segmentation INFO: {'model': {'name': 'Whole_model_light256_V2', 'backbone': 'without-pretrain', 'base_size': 1024, 'crop_size': 512}, 'optimizer': {'init_lr': 0.01, 'momentum': 0.9, 'weight_decay': 0.0001}, 'train': {'specific_gpu_num': '0', 'train_batch_size': 4, 'valid_batch_size': 1, 'cityscapes_root': 'E:\\B\\cityscape\\leftImg8bit_trainvaltest', 'epochs': 1000, 'log_iter': 10, 'val_epoch': 1, 'log_save_dir': './results/log', 'ckpt_dir': './results/ckpt/'}, 'test': {'ckpt_path': 'D:\\code\\My\\results\\ckpt\\Whole_model_light_without-pretrain_997_0.710_best_model.pth'}}
-2023-06-07 21:19:41,122 semantic_segmentation INFO: Start training, Total Epochs: 1000 = Total Iterations 744100
