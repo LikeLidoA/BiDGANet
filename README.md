@@ -13,6 +13,6 @@ waiting for upload...
   update a new version of paper
 
 2024.4.18
-  paper has been expanded 
-  soon will be submitted
+  paper has been expanded /
+  soon will be submitted /
   the Low-resolution Branch will be updated
