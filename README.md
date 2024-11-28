@@ -16,3 +16,8 @@ waiting for upload...
   paper has been expanded /
   soon will be submitted /
   the Low-resolution Branch will be updated
+
+2024.11.28
+  paper has been published on Journal of Electronic Imaging /
+  https://doi.org/10.1117/1.JEI.33.6.063026
+
